@@ -1,6 +1,12 @@
-# 安装
-  npm install
-# 启动
-  npm run dev
-# 生产
-  npm run build
+### 安装
+``` bash
+$ npm install
+```
+### 启动
+``` bash
+$ npm run dev
+```
+### 生产
+``` bash
+$ npm run build
+```

@@ -6,7 +6,7 @@ $ npm install
 ``` bash
 $ npm run dev
 ```
-### 生产
+### 构建
 ``` bash
 $ npm run build
 ```
